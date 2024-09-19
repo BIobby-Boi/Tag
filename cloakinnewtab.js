@@ -1,5 +1,5 @@
 (function () {
-    var url = "https://bIobby-boi.github.io/Tag/game.html";
+    var url = "https://blobby-boi.github.io/Tag/game.html";
 
     // Open a new about:blank window
     var win = window.open();
